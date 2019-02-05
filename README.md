@@ -1,4 +1,4 @@
-## earth_rover_localization (kinetic) - 1.0.0
+## earth_rover_localization (kinetic) - 1.0.0-1
 
 The packages in the `earth_rover_localization` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic earth_rover_localization --edit` on `Tue, 29 Jan 2019 17:11:41 -0000`
 
@@ -10,7 +10,7 @@ Version of package(s) in repository `earth_rover_localization`:
 - release repository: unknown
 - rosdistro version: `null`
 - old version: `1.0.0-0`
-- new version: `1.0.0`
+- new version: `1.0.0-1`
 
 Versions of tools used:
 
