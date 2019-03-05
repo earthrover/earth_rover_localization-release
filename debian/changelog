@@ -1,0 +1,27 @@
+ros-kinetic-earth-rover-localization (1.2.0-0xenial) xenial; urgency=high
+
+  * Update readme and install SBP script
+  * Fixed piksi package in launch and install targets
+  * Contributors: Andres Palomino
+
+ -- Andres Palomino <andres@earthrover.cc>  Mon, 04 Mar 2019 23:00:00 -0000
+
+ros-kinetic-earth-rover-localization (1.0.1-0xenial) xenial; urgency=high
+
+  * Update dependencies
+  * Contributors: Andres Palomino
+
+ -- Andres Palomino <andres@earthrover.cc>  Wed, 06 Feb 2019 23:00:00 -0000
+
+ros-kinetic-earth-rover-localization (1.0.0-0xenial) xenial; urgency=high
+
+  * Update CMakeList.txt GeographicLib test
+  * Update package.xml build depend
+  * changing package name in launch file
+  * adding dockerfile and docker-compose
+  * Fix package name and update Readme
+  * Contributors: Andres Palomino, Paul Harter
+
+ -- Andres Palomino <andres@earthrover.cc>  Sun, 27 Jan 2019 23:00:00 -0000
+
+
